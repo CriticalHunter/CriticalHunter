@@ -101,14 +101,9 @@ If you want to reach out to me about anything, be it some doubt regarding usage 
 <!Themes are, light: vue, buefy, solarized-light, graywhite, flag-india      lightdark -: cobalt, monokai, algolia, nord, omni, calm, slateorange>
 
 
----
-<details>
-<summary>
-  Recent Activities
-</summary>
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
-</details>
+
 
 ---
 ### This README uses components from

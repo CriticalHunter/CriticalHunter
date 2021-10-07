@@ -101,11 +101,18 @@ If you want to reach out to me about anything, be it some doubt regarding usage 
 <!Themes are, light: vue, buefy, solarized-light, graywhite, flag-india      lightdark -: cobalt, monokai, algolia, nord, omni, calm, slateorange>
 
 
+---
+
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
-
-
+1. 🎉 Merged PR [#125](https://github.com/madlabsinc/teachcode/pull/125) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+2. 🎉 Merged PR [#26](https://github.com/jamesgeorge007/csstox/pull/26) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 🎉 Merged PR [#25](https://github.com/jamesgeorge007/csstox/pull/25) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+<!--END_SECTION:activity-->
 
 ---
+
 ### This README uses components from
 [Anuraghazra's github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 

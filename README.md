@@ -106,8 +106,8 @@ If you want to reach out to me about anything, be it some doubt regarding usage 
 <summary>
   Recent Activities
 </summary>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+  <!--START_SECTION:activity-->
+
 </details>
 
 ---
